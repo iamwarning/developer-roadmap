@@ -28,7 +28,7 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "@astrojs/node": "^8.2.5",
+    "@astrojs/node": "^9.4.1",
     "@astrojs/react": "^3.4.0",
     "@astrojs/sitemap": "^3.1.5",
     "@astrojs/tailwind": "^5.1.0",
